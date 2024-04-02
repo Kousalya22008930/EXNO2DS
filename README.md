@@ -109,5 +109,7 @@ sns.heatmap(corr,annot=True)
 sns.pairplot(dt)
 ```
 ![312089950-4de84806-e138-419d-b9d9-776f376baff5](https://github.com/Kousalya22008930/EXNO2DS/assets/119389108/0e41c294-d1fe-441e-b191-16c15a519560)
+![312090357-b3426fc2-b11f-4178-a30e-064d6f3a37a3](https://github.com/Kousalya22008930/EXNO2DS/assets/119389108/0ba949f6-e889-4aea-9302-85bab1da9316)
+
 # RESULT
 Thus,Data Analyzing of the given dataset was successful.
